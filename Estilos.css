@@ -1,0 +1,108 @@
+:root {
+    --color-principal: #fab8b8;
+    --color-secundario: #333;
+    --fuente-base: 'Arial', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--color-principal);
+    color: var(--color-secundario);
+    font-family: var(--fuente-base);
+}
+
+.titulos{
+    padding: 20px 20px;
+    font-family: var(--fuente-base);
+    text-align: center;
+    color: antiquewhite;
+}
+
+img{
+    display: flex;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 10%;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+header ul{
+    list-style: none;
+    display: flex;
+    gap: 90px;
+    justify-content: center ;
+    align-items: center;
+    background-color: rgb(204, 169, 236);
+    padding: 20px;
+}
+
+header ul li{
+    background-color: rgb(230, 230, 186);
+    padding: 10px;
+    border-radius: 10%;
+}
+
+header ul li:hover{
+    background-color: rgb(87, 166, 190);
+    padding: 10px;
+ }
+
+header a{
+    text-decoration: none;
+    color: var(--color-secundario);
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+header a:hover{
+    color: aqua;
+}
+
+#texto{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    border: #333 solid 5px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 20px;
+    margin: 0 auto; /*que quede centrado*/
+    background-color: antiquewhite;
+}
+
+.form-group{
+    
+    padding: 20px 20px;
+    gap: 5px;
+}
+
+main article ol{
+    list-style: none;
+    width: 600px;
+    margin: 0 auto;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+ }
+
+ footer{
+    background-color: rgb(53, 48, 48);
+    color: aliceblue;
+    padding: 20px;
+    margin: 20px;
+ }
+
+ #footerp{
+    text-align: center;
+ }
