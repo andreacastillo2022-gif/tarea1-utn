@@ -9,10 +9,13 @@
 
 # Alumno: Andrea Agustina Castillo
 # Curso: Curso de desarrollo en React JS.
+# Unidad: 1
 
+#Imagen: pixabay
 
 ##capturas de la pagina
 ![Captura 1](./assets/captura1.png)
 ![Captura 2](./assets/captura2.png)
+
 
 
