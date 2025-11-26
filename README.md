@@ -5,7 +5,7 @@
 
 ## 🛠️ Instrucciones para clonar y ejecutar el proyecto
 
-###  Clonar el repositorio
+###  Clonar el repositorio: copiar repositorio completo dentro de una carpeta local y abrirlo con Visual Studio Code
 
 # Alumno: Andrea Agustina Castillo
 # Curso: Curso de desarrollo en React JS.
@@ -16,6 +16,7 @@
 ##capturas de la pagina
 ![Captura 1](./assets/captura1.png)
 ![Captura 2](./assets/captura2.png)
+
 
 
 
